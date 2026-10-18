@@ -2,14 +2,14 @@
 
 list1 = [23,
         23.213,
-        "asdasd",
-        "a",
+        "penguin 1",
+        "penguin",
         True,
         26,
         False,
         [23, 32],
         (65, 643.23),
-        "asd"]
+        "barbecue bacon burger"]
 count = 0
 
 for i in list1:
