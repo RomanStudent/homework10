@@ -1,9 +1,9 @@
 """This script looks for str objects."""
 
-list1 = [23,
-        23.213,
-        "penguin 1",
-        "penguin",
+list1 = ["beers",
+        "doctor_pepper??,
+        "greek salad",
+        "chicken nuggets/",
         True,
         26,
         False,
